@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "chapter_7"
+name = "hello_bitcoin"
 version = "0.1.0"
 description = ""
 authors = ["veto <veto@myridia.com>"]
